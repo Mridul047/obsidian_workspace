@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "faa88cbf80bbdf29",
+    "type": "split",
+    "children": [
+      {
+        "id": "33f1a78061c25e23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "177b87d2b10c45d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c10504353d7abd65",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1528050c56aee531",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dff286f68abedd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0fa3e4434d9bf73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31099a579d175c00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c55e4bc2717f8536",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab0739b96fc40bf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "81858e1c7901ee6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "243156358246faf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22ceb4240cd7709b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46dc971ec03acabc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b93a2da6a1ca59ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b0fa3e4434d9bf73",
+  "lastOpenFiles": [
+    "Untitled",
+    "Project_01/Models.md",
+    "Project_01/Utils.md",
+    "Project_01/Controllers.md",
+    "Project_01/Routes.md",
+    "Project_01/Frontend - ReactJs.md",
+    "Project_01/Backend - NodeJS.md",
+    "Project_01/Security.md",
+    "Project_01"
+  ]
+}
