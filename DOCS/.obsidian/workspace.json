@@ -11,9 +11,11 @@
             "id": "2a6b41f9a761ded2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230617174156.png"
+                "file": "Java/Java Streams/Streams.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230617174156.png",
+                "file": "Java/Java Streams/Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230617174156.png",
+                "file": "Java/Java Streams/Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230617174156.png"
+                "file": "Java/Java Streams/Streams.md"
               }
             }
           }
@@ -144,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a6b41f9a761ded2",
+  "active": "a9a4eec002d9a700",
   "lastOpenFiles": [
+    "Java/Java Streams/resources",
+    "Java/Java Streams/resources/Streams_birds_eye_view.png",
     "Pasted image 20230617173122.png",
-    "Pasted image 20230617174156.png",
-    "Java/Java Streams/Untitled.md",
+    "Java/Java Streams/Streams.md",
     "Java/Java Collections/Maps.md",
     "Java/Java Streams",
     "[java.util.md",
