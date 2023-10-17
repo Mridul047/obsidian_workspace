@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java Collections/Concurrent Collections/CopyOnWriteArrayList.md",
+                "file": "DevOps/Linux/Package Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Collections/Concurrent Collections/CopyOnWriteArrayList.md",
+                "file": "DevOps/Linux/Package Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Collections/Concurrent Collections/CopyOnWriteArrayList.md",
+                "file": "DevOps/Linux/Package Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Collections/Concurrent Collections/CopyOnWriteArrayList.md"
+                "file": "DevOps/Linux/Package Management.md"
               }
             }
           },
@@ -158,8 +158,12 @@
   },
   "active": "45a391f12b6e809e",
   "lastOpenFiles": [
-    "Java/Java Collections/Concurrent Collections/ConcurrentHashMap.md",
+    "DevOps/Linux/Linux Services.md",
+    "DSA/Recursion.md",
+    "DSA/Dynamic Programming.md",
+    "Java/Java Streams/Streams.md",
     "Java/Java Collections/Concurrent Collections/CopyOnWriteArrayList.md",
+    "Java/Java Collections/Concurrent Collections/ConcurrentHashMap.md",
     "Java/Java Collections/Collections/Maps.md",
     "Java/Java Executor Framework/Executor Framework.md",
     "Java/Spring Boot/Spring Data JPA/Hibernate.md",
@@ -168,13 +172,10 @@
     "Java/Java Collections/Concurrent Collections/CopyOnWriteArraySet.md",
     "Java/Java Collections/Collections",
     "Java/Java Collections/Concurrent Collections",
-    "DSA/Dynamic Programming.md",
-    "DSA/Recursion.md",
     "DSA",
     "Pasted image 20230905135604.png",
     "System Design/Design Fundamentals 101.md",
     "Java/Spring Boot/Spring Data JPA",
-    "DevOps/Linux/Linux Services.md",
     "DevOps/Linux/Package Management.md",
     "2023-08-23.md",
     "Untitled.canvas",
@@ -184,7 +185,6 @@
     "System Design",
     "DevOps/Linux",
     "DevOps",
-    "Java/Java Streams/Streams.md",
     "Java/Java Streams/resources",
     "Java/Java Streams/resources/Streams_birds_eye_view.png",
     "Pasted image 20230617173122.png",
