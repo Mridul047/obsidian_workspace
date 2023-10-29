@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9af23ea72c64ca72",
+        "id": "d1991bf2e8331462",
         "type": "tabs",
         "children": [
           {
-            "id": "45a391f12b6e809e",
+            "id": "ed815817dc3293fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Linux/Package Management.md",
+                "file": "Java Build Tools/Maven 101.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Linux/Package Management.md",
+                "file": "Java Build Tools/Maven 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Linux/Package Management.md",
+                "file": "Java Build Tools/Maven 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Linux/Package Management.md"
+                "file": "Java Build Tools/Maven 101.md"
               }
             }
           },
@@ -156,44 +156,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45a391f12b6e809e",
+  "active": "ed815817dc3293fe",
   "lastOpenFiles": [
+    "Java/Spring Boot/Spring Boot 101.md",
+    "Java/Spring Framework",
+    "Java Build Tools/Maven 101.md",
+    "Java Build Tools",
+    "Java/Spring Boot/Spring Framework",
+    "Java/Spring Boot/Spring Data JPA/Hibernate.md",
+    "Java/Java Streams/Streams.md",
+    "JS/React/React 101.md",
+    "JS/React/resources/Pasted image 20231017232128.png",
+    "JS/React/resources/Pasted image 20231017231640.png",
+    "Pasted image 20230905135604.png",
+    "JS/React/resources",
+    "DevOps/Linux/Package Management.md",
+    "JS/React",
+    "JS",
     "DevOps/Linux/Linux Services.md",
     "DSA/Recursion.md",
     "DSA/Dynamic Programming.md",
-    "Java/Java Streams/Streams.md",
     "Java/Java Collections/Concurrent Collections/CopyOnWriteArrayList.md",
     "Java/Java Collections/Concurrent Collections/ConcurrentHashMap.md",
     "Java/Java Collections/Collections/Maps.md",
     "Java/Java Executor Framework/Executor Framework.md",
-    "Java/Spring Boot/Spring Data JPA/Hibernate.md",
     "Java/Java Collections/resources/maps/HashMap.png",
     "Java/Java Collections/Collections/resources",
     "Java/Java Collections/Concurrent Collections/CopyOnWriteArraySet.md",
     "Java/Java Collections/Collections",
     "Java/Java Collections/Concurrent Collections",
     "DSA",
-    "Pasted image 20230905135604.png",
     "System Design/Design Fundamentals 101.md",
-    "Java/Spring Boot/Spring Data JPA",
-    "DevOps/Linux/Package Management.md",
     "2023-08-23.md",
     "Untitled.canvas",
     "System Design/Network Protocols.md",
     "System Design/Client Server Model.md",
     "2023-08-10.md",
-    "System Design",
-    "DevOps/Linux",
-    "DevOps",
-    "Java/Java Streams/resources",
     "Java/Java Streams/resources/Streams_birds_eye_view.png",
     "Pasted image 20230617173122.png",
-    "Java/Java Streams",
     "[java.util.md",
     "Java/Java Collections/resources/maps/EnumMap.png",
     "Java/Java Collections/resources/maps/WeakHashMap.png",
     "Java/Java Collections/resources/maps/TreeMap.png",
-    "Java/Java Collections/resources/maps/IdentityHashMap.png",
-    "Java/Java Collections/resources/maps/LinkedHashMap.png"
+    "Java/Java Collections/resources/maps/IdentityHashMap.png"
   ]
 }
