@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Build Tools/Maven 101.md",
+                "file": "Java/Java Collections/Concurrent Collections/ConcurrentHashMap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Build Tools/Maven 101.md",
+                "file": "Java/Java Collections/Concurrent Collections/ConcurrentHashMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Build Tools/Maven 101.md",
+                "file": "Java/Java Collections/Concurrent Collections/ConcurrentHashMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Build Tools/Maven 101.md"
+                "file": "Java/Java Collections/Concurrent Collections/ConcurrentHashMap.md"
               }
             }
           },
@@ -158,9 +158,12 @@
   },
   "active": "ed815817dc3293fe",
   "lastOpenFiles": [
+    "Java/Java Collections/Collections/Maps.md",
+    "DevOps/Linux/Package Management.md",
+    "DevOps/Linux/Linux Services.md",
+    "Java Build Tools/Maven 101.md",
     "Java/Spring Boot/Spring Boot 101.md",
     "Java/Spring Framework",
-    "Java Build Tools/Maven 101.md",
     "Java Build Tools",
     "Java/Spring Boot/Spring Framework",
     "Java/Spring Boot/Spring Data JPA/Hibernate.md",
@@ -170,15 +173,12 @@
     "JS/React/resources/Pasted image 20231017231640.png",
     "Pasted image 20230905135604.png",
     "JS/React/resources",
-    "DevOps/Linux/Package Management.md",
     "JS/React",
     "JS",
-    "DevOps/Linux/Linux Services.md",
     "DSA/Recursion.md",
     "DSA/Dynamic Programming.md",
     "Java/Java Collections/Concurrent Collections/CopyOnWriteArrayList.md",
     "Java/Java Collections/Concurrent Collections/ConcurrentHashMap.md",
-    "Java/Java Collections/Collections/Maps.md",
     "Java/Java Executor Framework/Executor Framework.md",
     "Java/Java Collections/resources/maps/HashMap.png",
     "Java/Java Collections/Collections/resources",
