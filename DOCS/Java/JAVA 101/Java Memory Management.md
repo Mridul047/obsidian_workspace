@@ -21,8 +21,11 @@ Heap Memory:
 		- Eden Space
 		- Survivor Space ( S0 , S1 )
 	* Old/Tenured Generation (major GC happens here)
+	* PermGen (before J8)
+* Meta Space ( Introduced in J8  not part of Heap) holds Static code / constants etc.
 * Garbage Collector is used to delete the unreferenced objects from the heap.
 	- Mark and Sweep Algorithm
+	- Mark and Sweep Algorithm with Compaction
 	- Types of GC:
 		- Serial GC
 		- Parallel GC
