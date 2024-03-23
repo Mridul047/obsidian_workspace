@@ -18,8 +18,8 @@ Heap Memory:
 - When Heap memory goes full, its throws "java.lang.OutofMemoryError"
 - Heap memory is further divided into:
 	- Young Generation (minor GC happens here)
-		- Eden
-		- Survivor
+		- Eden Space
+		- Survivor Space ( S0 , S1 )
 	* Old/Tenured Generation (major GC happens here)
 * Garbage Collector is used to delete the unreferenced objects from the heap.
 	- Mark and Sweep Algorithm
@@ -28,4 +28,4 @@ Heap Memory:
 		- Parallel GC
 		- CMS (concurrent Mark Sweep)
 		- G1
-		- ZGC*
+		- ZGC
