@@ -35,3 +35,5 @@
 		Time series DB -> Used for monitoring (InfluxDB , Prometheus)
 		Graph DB -> Used when entity has to many relationships (Neo4J)
 		Spatial DB -> Used to store geography info.
+	Replication and Sharding
+		
