@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java Streams/Streams.md",
+                "file": "Java/JAVA 101/Immutable Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Streams/Streams.md",
+                "file": "Java/JAVA 101/Immutable Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Streams/Streams.md",
+                "file": "Java/JAVA 101/Immutable Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Streams/Streams.md"
+                "file": "Java/JAVA 101/Immutable Class.md"
               }
             }
           },
@@ -173,14 +173,16 @@
   "active": "441d7cc26147f820",
   "lastOpenFiles": [
     "Java/JAVA 101/Java Memory Management.md",
+    "Java/JAVA 101/Immutable Class.md",
+    "Java/Java Collections/Collections/Maps.md",
+    "Java/Java Collections/resources/maps/HashMap-Internals.png",
+    "Java/Java Streams/Streams.md",
     "Java/Java Collections/Concurrent Collections/CopyOnWriteArraySet.md",
     "Java/Java Collections/Concurrent Collections/CopyOnWriteArrayList.md",
     "Java/Java Collections/Concurrent Collections/ConcurrentHashMap.md",
     "Java/Java Collections/Collections/Queue.md",
     "Java/Java Collections/Collections/Sets.md",
     "JS/React/React 101.md",
-    "Java/Java Collections/Collections/Maps.md",
-    "Java/Java Streams/Streams.md",
     "Java/JAVA 101",
     "Kafka/Kafka APIs.md",
     "System Design/Design Fundamentals 101.md",
@@ -194,7 +196,6 @@
     "Pasted image 20231202214524.png",
     "Pasted image 20231202213858.png",
     "Pasted image 20231202213810.png",
-    "Pasted image 20231202213713.png",
     "Kafka/Kafka Higher level APIs.md",
     "Kafka/Kafka 101.md",
     "Pasted image 2020231115161709.png.md",
@@ -217,7 +218,6 @@
     "Java/Java Collections/Collections",
     "2023-08-23.md",
     "Untitled.canvas",
-    "System Design/Network Protocols.md",
-    "System Design/Client Server Model.md"
+    "System Design/Network Protocols.md"
   ]
 }

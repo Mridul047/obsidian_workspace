@@ -8,3 +8,4 @@
 * IdentityHashMap ![[IdentityHashMap.png]]
 * TreeMap ![[TreeMap.png]]
 * WeakHashMap ![[WeakHashMap.png]]
+![[HashMap-Internals.png]]
