@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Comic Sans MS",
+  "textFontFamily": "Comic Sans MS",
+  "baseFontSize": 17
 }
