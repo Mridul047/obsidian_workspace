@@ -1,5 +1,5 @@
 
-*Interface Segmentation Principle:
+Interface Segmentation Principle:
 	Interface should be designed keeping in mind the children should NOT BE IMPLEMENT UNNECESSARY BEHAVIOUR THAT THEY DON'T NEED !
 	
 Single Responsibility Principle:
