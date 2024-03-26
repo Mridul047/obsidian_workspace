@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/SOLID.md",
-                "mode": "source",
+                "file": "Design/Class Design Patterns/Singleton Design Pattern.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/SOLID.md",
+                "file": "Design/Class Design Patterns/Singleton Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design/SOLID.md",
+                "file": "Design/Class Design Patterns/Singleton Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/SOLID.md"
+                "file": "Design/Class Design Patterns/Singleton Design Pattern.md"
               }
             }
           },
@@ -172,9 +172,11 @@
   },
   "active": "441d7cc26147f820",
   "lastOpenFiles": [
-    "Java/Java Collections/Collections/Sets.md",
-    "Design/SOLID.md",
     "Java/Spring Boot/Spring Boot 101.md",
+    "Design/Class Design Patterns/Singleton Design Pattern.md",
+    "Design/Class Design Patterns",
+    "Design/SOLID.md",
+    "Java/Java Collections/Collections/Sets.md",
     "Design",
     "DevOps/Linux/Linux Services.md",
     "DevOps/Linux/Package Management.md",
@@ -216,8 +218,6 @@
     "JS",
     "DSA/Recursion.md",
     "DSA/Dynamic Programming.md",
-    "Java/Java Collections/Collections/resources",
-    "2023-08-23.md",
     "Untitled.canvas"
   ]
 }
