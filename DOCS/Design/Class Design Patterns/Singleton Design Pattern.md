@@ -135,3 +135,6 @@ class Singleton {
 }
 
 ```
+
+
+Note: If a class needs to implement Serializable and cloneable then we need to implement readResolve() & clone() method to return reference of the class !
