@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/Class Design Patterns/Creational Patterns/Singleton Design Pattern.md",
+                "file": "Design/Class Design Patterns/Immutable Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/Class Design Patterns/Creational Patterns/Singleton Design Pattern.md",
+                "file": "Design/Class Design Patterns/Immutable Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design/Class Design Patterns/Creational Patterns/Singleton Design Pattern.md",
+                "file": "Design/Class Design Patterns/Immutable Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/Class Design Patterns/Creational Patterns/Singleton Design Pattern.md"
+                "file": "Design/Class Design Patterns/Immutable Class.md"
               }
             }
           },
@@ -170,13 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9a4eec002d9a700",
+  "active": "441d7cc26147f820",
   "lastOpenFiles": [
-    "Design/Class Design Patterns/Creational Patterns",
-    "Java/Spring Boot/Spring Boot 101.md",
     "Design/Class Design Patterns/Creational Patterns/Singleton Design Pattern.md",
-    "Design/Class Design Patterns",
+    "Design/Class Design Patterns/Immutable Class.md",
     "Design/SOLID.md",
+    "Java/Spring Boot/Spring Boot 101.md",
+    "Design/Class Design Patterns/Creational Patterns",
+    "Design/Class Design Patterns",
     "Java/Java Collections/Collections/Sets.md",
     "Design",
     "DevOps/Linux/Linux Services.md",
@@ -216,7 +217,6 @@
     "Java/Spring Boot/Spring Data JPA/Hibernate.md",
     "JS/React/resources",
     "JS/React",
-    "JS",
     "DSA/Recursion.md",
     "Untitled.canvas"
   ]
