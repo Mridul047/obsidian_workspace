@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a7867413b6256149",
+        "id": "966ad0e8715ba148",
         "type": "tabs",
         "children": [
           {
-            "id": "441d7cc26147f820",
+            "id": "eb05ad7106455060",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design/Class Design Patterns/Immutable Class.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28109d665baa0519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java Collections/Collections/Sets.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -51,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -66,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -97,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/Class Design Patterns/Immutable Class.md",
+                "file": "Cloud/AWS/A-Networking/3-Routing in VPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3-Routing in VPC"
             }
           },
           {
@@ -114,10 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design/Class Design Patterns/Immutable Class.md",
+                "file": "Cloud/AWS/A-Networking/3-Routing in VPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3-Routing in VPC"
             }
           },
           {
@@ -128,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -137,8 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/Class Design Patterns/Immutable Class.md"
-              }
+                "file": "Cloud/AWS/A-Networking/3-Routing in VPC.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3-Routing in VPC"
             }
           },
           {
@@ -150,7 +150,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -170,54 +172,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "441d7cc26147f820",
+  "active": "eb05ad7106455060",
   "lastOpenFiles": [
-    "Design/Class Design Patterns/Creational Patterns/Singleton Design Pattern.md",
-    "Design/Class Design Patterns/Immutable Class.md",
-    "Design/SOLID.md",
-    "Java/Spring Boot/Spring Boot 101.md",
-    "Design/Class Design Patterns/Creational Patterns",
-    "Design/Class Design Patterns",
-    "Java/Java Collections/Collections/Sets.md",
-    "Design",
-    "DevOps/Linux/Linux Services.md",
-    "DevOps/Linux/Package Management.md",
-    "Java/JAVA 101/Java Memory Management.md",
-    "Java/JAVA 101/Immutable Class.md",
-    "Pasted image 20231115135223.png",
-    "Pasted image 20231115134839.png",
-    "Pasted image 20231115134149.png",
-    "Pasted image 20230905135604.png",
-    "Java/Java Collections/Collections/Maps.md",
-    "Java/Java Collections/resources/maps/HashMap-Internals.png",
-    "Java/Java Streams/Streams.md",
-    "Java/Java Collections/Concurrent Collections/CopyOnWriteArraySet.md",
-    "Java/Java Collections/Concurrent Collections/CopyOnWriteArrayList.md",
-    "Java/Java Collections/Concurrent Collections/ConcurrentHashMap.md",
-    "Java/Java Collections/Collections/Queue.md",
-    "JS/React/React 101.md",
-    "Java/JAVA 101",
-    "Kafka/Kafka APIs.md",
-    "System Design/Design Fundamentals 101.md",
-    "Java/Java Concurrency/Executor Framework.md",
-    "Pasted image 20231202222406.png",
-    "Pasted image 20231202221338.png",
-    "Pasted image 20231202221252.png",
-    "Pasted image 20231202221200.png",
-    "Pasted image 20231202221037.png",
-    "Kafka/Kafka Higher level APIs.md",
+    "2024-11-15.md",
+    "Untitled.canvas",
+    "Z-Images/Pasted image 20230905135604.png",
+    "Z-Images/Pasted image 20240921175254.png",
+    "Z-Images/Pasted image 20231202221200.png",
+    "Z-Images/Pasted image 20231202221037.png",
     "Kafka/Kafka 101.md",
-    "Pasted image 2020231115161709.png.md",
-    "Pasted image 20231115161800.png.md",
-    "Kafka",
-    "Java Build Tools/Maven 101.md",
-    "Java/Spring Framework",
-    "Java Build Tools",
-    "Java/Spring Boot/Spring Framework",
+    "Z-Images/Pasted image 20231118124156.png",
+    "Z-Images/Pasted image 20231118130641.png",
+    "Z-Images/Pasted image 20241109203834.png",
+    "Z-Images/Pasted image 20241105130702.png",
+    "Z-Images/Pasted image 20241107104048.png",
+    "Z-Images/Pasted image 20241109185034.png",
+    "Cloud/AWS/B-Storage/2-Instance Store.md",
+    "Cloud/AWS/A-Networking/10-VPN.md",
+    "Cloud/AWS/D-Database/1-RDS.md",
+    "Z-Images",
+    "Java/Spring Boot/Spring Boot 101.md",
     "Java/Spring Boot/Spring Data JPA/Hibernate.md",
-    "JS/React/resources",
-    "JS/React",
-    "DSA/Recursion.md",
-    "Untitled.canvas"
+    "Cloud/AWS/C-Compute/7-App Runner.md",
+    "Cloud/AWS/D-Database",
+    "Cloud/AWS/C-Compute/9-Step Functions.md",
+    "Cloud/AWS/C-Compute/16-Snow Family.md",
+    "Cloud/AWS/C-Compute/15-VMWare Cloud of AWS.md",
+    "Cloud/AWS/C-Compute/14-ECS-EKS Anywhere.md",
+    "Cloud/AWS/C-Compute/13-Outpost.md",
+    "Cloud/AWS/C-Compute/12-Amplify.md",
+    "Cloud/AWS/C-Compute/11-Serverless Application Repository.md",
+    "Security/OpenSSL/1-Create Certificate.md",
+    "Security/OpenSSL",
+    "Cloud/AWS/C-Compute/10-Serverless Application Model.md",
+    "Cloud/AWS/C-Compute/8-Lambda.md",
+    "Cloud/AWS/C-Compute/7-Batch.md",
+    "Cloud/AWS/C-Compute/6-ECR.md",
+    "Cloud/AWS-EKS/2-EKS Networking.md",
+    "Cloud/AWS-EKS/1-EKS Basics.md",
+    "Cloud/AWS-EKS/Untitled",
+    "Cloud/AWS/C-Compute/5-EKS.md",
+    "Cloud/AWS-EKS",
+    "Cloud/AWS/C-Compute/5-ECS.md",
+    "Cloud/AWS/A-Networking/1-VPC.md",
+    "Cloud/AWS/C-Compute/3-EBStock",
+    "Cloud/AWS/C-Compute",
+    "Cloud/AWS/A-Networking",
+    "Cloud/AWS/B-Storage",
+    "Cloud/AWS-ECS"
   ]
 }
