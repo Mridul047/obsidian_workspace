@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "966ad0e8715ba148",
+        "id": "1acce75eea0da387",
         "type": "tabs",
         "children": [
           {
-            "id": "eb05ad7106455060",
+            "id": "98c363f3041a742b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Wiremock/1-Wiremock Basic Stubbing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-Wiremock Basic Stubbing"
             }
           }
         ]
@@ -172,8 +176,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb05ad7106455060",
+  "active": "a9a4eec002d9a700",
   "lastOpenFiles": [
+    "Security/OAuth",
+    "Security/OAuth.md",
+    "Testing/Wiremock/2-Wiremock Request Matching.md",
+    "Testing/Wiremock/1-Wiremock Basic Stubbing.md",
+    "Testing/Wiremock",
+    "Testing",
     "2024-11-15.md",
     "Untitled.canvas",
     "Z-Images/Pasted image 20230905135604.png",
@@ -211,14 +221,9 @@
     "Cloud/AWS-EKS/2-EKS Networking.md",
     "Cloud/AWS-EKS/1-EKS Basics.md",
     "Cloud/AWS-EKS/Untitled",
-    "Cloud/AWS/C-Compute/5-EKS.md",
     "Cloud/AWS-EKS",
-    "Cloud/AWS/C-Compute/5-ECS.md",
-    "Cloud/AWS/A-Networking/1-VPC.md",
     "Cloud/AWS/C-Compute/3-EBStock",
     "Cloud/AWS/C-Compute",
-    "Cloud/AWS/A-Networking",
-    "Cloud/AWS/B-Storage",
-    "Cloud/AWS-ECS"
+    "Cloud/AWS/A-Networking"
   ]
 }
