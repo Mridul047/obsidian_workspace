@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Wiremock/1-Wiremock Basic Stubbing.md",
-                "mode": "source",
+                "file": "JS/Basics/1-Objects in JavaScript.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Wiremock Basic Stubbing"
+              "title": "1-Objects in JavaScript"
             }
           }
         ]
@@ -178,10 +178,12 @@
   },
   "active": "a9a4eec002d9a700",
   "lastOpenFiles": [
+    "Testing/Wiremock/1-Wiremock Basic Stubbing.md",
+    "JS/Basics/1-Objects in JavaScript.md",
+    "JS/Basics",
     "Security/OAuth",
     "Security/OAuth.md",
     "Testing/Wiremock/2-Wiremock Request Matching.md",
-    "Testing/Wiremock/1-Wiremock Basic Stubbing.md",
     "Testing/Wiremock",
     "Testing",
     "2024-11-15.md",
@@ -222,8 +224,6 @@
     "Cloud/AWS-EKS/1-EKS Basics.md",
     "Cloud/AWS-EKS/Untitled",
     "Cloud/AWS-EKS",
-    "Cloud/AWS/C-Compute/3-EBStock",
-    "Cloud/AWS/C-Compute",
-    "Cloud/AWS/A-Networking"
+    "Cloud/AWS/C-Compute/3-EBStock"
   ]
 }
